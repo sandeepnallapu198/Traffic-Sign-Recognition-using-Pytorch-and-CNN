@@ -69,7 +69,7 @@ https://github.com/vamsiramakrishnan/TrafficSignRecognition.git
 # Model Architecture 
 The model architecture is very similar to most classification deep learning nets. 
 <p align="center">
-  <img src="ModelArch.png" width="1000"/>
+<img src="ModelArch.png" width="1000"/>
 </p>
 * Spatial Transformers have been deployed to achieve invariance in scale
 * CNN for feature extraction
