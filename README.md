@@ -1,6 +1,6 @@
 # Traffic_Signs_Recognition-DL
 
-## Sandeep Nallapu
+## -Sandeep Nallapu
 
 # TrafficSignRecognition
 A Deep Neural Network to do traffic sign recognition
