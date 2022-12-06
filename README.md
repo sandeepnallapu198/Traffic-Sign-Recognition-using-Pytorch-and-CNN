@@ -3,7 +3,7 @@
 ## - Sandeep Nallapu
 
 
-# Traffic-Sign-Recognition
+
 
 In this report, we propose a Convolutional Neural Network(CNN) for traffic sign classification that achieves outstanding performance using GTSRB.Since the traffic signs are various in number and design it can be difficult for one to memorize all of them correctly. This development presents a model that identifies a Traffic sign accurately, recognition is carried out in three stages: image preprocessing, feature detection , and recognition. The developed system is specifically designed to detect images invariants in viewing angle, rotation, variable lighting, very low false positive rate and computational time along with GUI speaking the recognised sign name out, which will be really helpful to alert the driver irrespective of his knowledge of traffic signs.
 
@@ -12,12 +12,6 @@ In this report, we propose a Convolutional Neural Network(CNN) for traffic sign 
 ![CNN Model](https://miro.medium.com/max/2000/1*lXdNveKOPqjTfnRXfQlNRA.png)
 
   
-## Contributors 
-
-- [@TirthShah](https://www.github.com/tirth2212)
-- [@Vidhayini](https://www.github.com/vidhayini)
-- [@Isha Jain](https://www.github.com/ishajain1)
-
 
   
 ## Deployment
@@ -30,8 +24,6 @@ To deploy this project run:
  - To run the GUI, run Front-end.py file.
 
   
-## Demo
-Link to the video of Front-end: https://youtu.be/iNIGG2xzUZA 
 
   
 ## Environment Variables
@@ -44,7 +36,7 @@ To run this project, you will need to add the following libraries to your venv:-
 `matplotlib`
 `sci-kit learn`
 `pillow`
-`tkinter`
+
 
 
   
